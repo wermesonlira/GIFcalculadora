@@ -1,0 +1,38 @@
+body {
+    font-family:"Arial, Helvetica, sans-serif";
+    min-height: 400px;
+    background-image: url('https://media4.giphy.com/media/UvKobZEhahSsbRH0cT/giphy.gif?cid=ecf05e47ahbb7u8p36wtv0w85hhwqu677p8615fqpd2v04td&rid=giphy.gif&ct=s');
+ 
+    background-color: rgb(53, 53, 124);
+    background-size: 58vh;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+  }
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  .page-title {
+    color: white;
+    margin: 0 0 5px;
+    font-size: 30px;
+  }
+  
+  .page-subtitle {
+    color:white;
+    margin-top: 5px;
+    font-size: 20px ;
+  }
+  
+  .page-logo {
+    width: 80px;
+  }
+  
+  .lira-logo {
+    width: 60px;
+    position: absolute;
+    top: 10px;
+    right: 5px;
+  }
+    
